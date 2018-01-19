@@ -1,0 +1,2 @@
+# CMD #
+mongoimport --db crypto --collection currencies --drop --file [path]ticker.json
